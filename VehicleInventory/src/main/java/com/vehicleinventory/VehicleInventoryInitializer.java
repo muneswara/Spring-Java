@@ -3,7 +3,7 @@ package com.vehicleinventory;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 /**
- * @author RameshReddy Komma
+ * @author Muni
  *
  */
 public class VehicleInventoryInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
